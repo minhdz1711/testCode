@@ -1,0 +1,15 @@
+{
+    "quantity_people": "1",
+    "meal": "lunch",
+    "restaurant": "Mc Donalds",
+    "foods": [
+        {
+            "food": "Ham Burger",
+            "quantity": "1"
+        },
+        {
+            "food": "Cheese Burger",
+            "quantity": "4"
+        }
+    ]
+}
